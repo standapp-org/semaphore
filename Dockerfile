@@ -1,4 +1,4 @@
-FROM semaphoreui/semaphore:v2.10.32
+FROM semaphoreui/semaphore:v2.14.10
 
 USER root
 
